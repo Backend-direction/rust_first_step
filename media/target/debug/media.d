@@ -1,1 +1,1 @@
-C:\Learning\Rust\media\target\debug\media.exe: C:\Learning\Rust\media\src\main.rs
+C:\Learning\Rust\media\target\debug\media.exe: C:\Learning\Rust\media\src\content\catalog.rs C:\Learning\Rust\media\src\content\media.rs C:\Learning\Rust\media\src\content\mod.rs C:\Learning\Rust\media\src\main.rs
